@@ -51,7 +51,61 @@
  }
  
 
+@media only screen and (min-width: 600px, max-width: 768px ) {
+.banner {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+   
+   
+ }
+  
+ .banner h1 {
+    font-family: Audiowide;
+   text-align: center;
+   font-size: 20px
+   
+ }
+  
+ .banner h2 {
+    font-family: Roboto;
+    margin: 10px auto;
+   
+ }
+  
+  
+  
+  
+ textarea {
+    margin: 50px 315px 20px;
+    width: 80%;
+    height: 200px;
+    font-size: 40px;
+    font-family: Roboto;
+    resize: none;
+  
+ }
+  
+ form button {
+    display: inline-block;
+    margin: 0 315px;
+    font-family: Roboto;
+    width: 50px;
+  
+ }
+  
+ html {
+   
+    background-image: url("https://cdn.vox-cdn.com/thumbor/GPKLDPCzwNKVDHMpXnm_YPGpS_8=/0x0:2447x3000/1720x0/filters:focal(0x0:2447x3000):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10273661/unioncarbide_getty.jpg");
+    background-repeat: no-repeat;
+    background-size:80%;      
+   
 
+ }
+}
+
+  
+  
 
  
  
