@@ -1,6 +1,6 @@
 @viewport {
   width: device-width ;
-  zoom: 1.0 ;
+  zoom: 2.0 ;
 }
 
 .banner {
@@ -51,25 +51,7 @@
  }
  
 @media only screen and (max-width: 600px) {
-   .banner {
-      text-align: center;
-      font-size: 60px;
-      color: white; } 
-
-      .banner h2 {
-         font-family: Roboto;
-         margin: 100px auto;
-        
-      }
-
-      textarea {
-         margin: 50px 315px 20px;
-         width: 100%;
-         height: 200px;
-         font-size: 25px;
-         font-family: Roboto;
-         resize: none; }
-  
+   
      html {
        background-repeat: no-repeat;
        background-size: auto;
@@ -78,24 +60,7 @@
 }
 
  @media only screen and (min-width: 600px) {
-    .banner {
-      text-align: center;
-      font-size: 60px;
-      color: white; } 
-
-      .banner h2 {
-         font-family: Roboto;
-         margin: 100px auto;
-        
-      }
-
-      textarea {
-         margin: 50px 315px 20px;
-         width: 100%;
-         height: 200px;
-         font-size: 25px;
-         font-family: Roboto;
-         resize: none; }
+    
   
      html {
        background-repeat: no-repeat;
