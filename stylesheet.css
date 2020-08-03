@@ -67,7 +67,8 @@
          resize: none; }
      
      html {
-         background-size: cover; }
+         background-size: cover;
+         background-repeat: repeat;}
 
  }
 
