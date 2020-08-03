@@ -71,7 +71,7 @@
          resize: none; }
   
      html {
-       background-repeat: none;
+       background-repeat: no-repeat;
        background-size: cover;
 
  }
@@ -98,7 +98,7 @@
          resize: none; }
   
      html {
-       background-repeat: none;
+       background-repeat: no-repeat;
        background-size: cover;
 
  }
