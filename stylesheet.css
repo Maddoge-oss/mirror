@@ -72,7 +72,7 @@
   
      html {
        background-repeat: no-repeat;
-       background-size: cover;
+       background-size: auto;
 
  }
 }
@@ -99,7 +99,7 @@
   
      html {
        background-repeat: no-repeat;
-       background-size: cover;
+       background-size: auto;
 
  }
 
